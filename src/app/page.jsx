@@ -11,7 +11,7 @@ export default function Home() {
           <div className="grid grid-cols-2 w-full">
             <div className="pt-44 pl-16 pr-11">
               <p className="text-7xl text-white font-bold">
-                WELCOME TO MY WEBSITE
+                WELCOME TO MY WEBSITe
               </p>
               <p className="text-xl text-white font-medium py-5">
                 lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum
